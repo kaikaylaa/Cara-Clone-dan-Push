@@ -1,0 +1,16 @@
+CARA CLONE 
+- setelah login di git.com, buka repositories dari akun teman.
+- kilk clone or download, kemudian akan tertera url https atau ssh, copy.
+- pilih folder tempat menyimpan hasil clone. kemudian klik kanan folder tersebut, kemudian pilih git bash here
+- setelah muncul cmd, ketik git clone (alamat yg tadi di copy), kemudian enter.
+- selesai, bisa di lihat di folder tempat menyimpan hasil clone.
+
+CARA PUSH
+- setelah login di git.com, buat repositori baru, kemudian salin alamat https atau ssh nya.
+- pilih file yang akan di upload, kemudian klik kanan, klik git bash here.
+- ketik git init , (enter)
+- ketik git add *,(enter)
+- ketik git commit -m "(komentar)", (enter)
+- ketik git remote add origin (alamat yang tadi di copy),(enter)
+- ketik git push origin master,(enter)
+- selesai
